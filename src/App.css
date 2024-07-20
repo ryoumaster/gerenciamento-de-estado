@@ -1,0 +1,21 @@
+.texto{
+  width: 150px;
+  height: 100px;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  margin: auto;
+  margin-top: 200px;
+  border-radius: 5px;
+}
+
+.botoes{
+  text-align: center;
+  justify-content: center;
+  margin: auto;
+  margin-top: 200px;
+}
+
+.botoes button{
+  border-radius: 5px;
+}
